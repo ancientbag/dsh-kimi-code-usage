@@ -1,6 +1,6 @@
 {
   "name": "dsh-kimi-coding-usage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "DeepSeek Harness plugin: shows Kimi Code 5-hour and weekly quota usage below the composer, with API key and region management in a popover.",
   "license": "MIT",
   "type": "module",

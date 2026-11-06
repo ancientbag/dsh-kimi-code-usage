@@ -1,5 +1,5 @@
 window.__ModuleLoader__.load({
-  id: '@local/kimi-balance',
+  id: 'dsh-kimi-coding-usage',
   factory(require) {
     const React = require('react');
     const h = React.createElement;
