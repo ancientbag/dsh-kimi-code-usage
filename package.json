@@ -1,5 +1,5 @@
 {
-  "name": "dsh-kimi-coding-usage",
+  "name": "dsh-kimi-code-usage",
   "version": "1.0.1",
   "description": "DeepSeek Harness plugin: shows Kimi Code 5-hour and weekly quota usage below the composer, with API key and region management in a popover.",
   "license": "MIT",
@@ -7,7 +7,7 @@
   "keywords": ["deepseek-harness", "dsh", "cordis", "kimi", "kimi-code", "moonshot", "quota", "usage"],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ancientbag/dsh-kimi-coding-usage.git"
+    "url": "git+https://github.com/ancientbag/dsh-kimi-code-usage.git"
   },
   "exports": {
     ".": "./index.js",

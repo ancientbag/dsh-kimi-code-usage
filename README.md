@@ -1,4 +1,4 @@
-# dsh-kimi-coding-usage
+# dsh-kimi-code-usage
 
 A [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) plugin that shows your **Kimi Code** subscription quota right in the Web UI:
 
@@ -25,7 +25,7 @@ Install the bundle dsh-kimi-code-usage
 Directly from GitHub without npm:
 
 ```
-Install the bundle github:ancientbag/dsh-kimi-code-usage 
+Install the bundle github:ancientbag/dsh-kimi-code-usage
 ```
 
 ⚠️ If the badge with Kimi coding usage did not appear -> Try to relaunch Deepseek Harness.
