@@ -25,7 +25,7 @@ Install the bundle dsh-kimi-coding-usage
 Directly from GitHub without npm:
 
 ```
-Install the bundle github:<your-name>/dsh-kimi-coding-usage
+Install the bundle github:ancientbag/dsh-kimi-coding-usage
 ```
 
 Then click the badge below the composer, paste your API key, and save.
