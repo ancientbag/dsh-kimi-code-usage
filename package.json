@@ -1,0 +1,27 @@
+{
+  "name": "dsh-kimi-coding-usage",
+  "version": "1.0.0",
+  "description": "DeepSeek Harness plugin: shows Kimi Code 5-hour and weekly quota usage below the composer, with API key and region management in a popover.",
+  "license": "MIT",
+  "type": "module",
+  "keywords": ["deepseek-harness", "dsh", "cordis", "kimi", "kimi-code", "moonshot", "quota", "usage"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CHANGE-ME/dsh-kimi-coding-usage.git"
+  },
+  "exports": {
+    ".": "./index.js",
+    "./client": "./client.js",
+    "./locale/*.json": "./locale/*.json",
+    "./icon": "./icon.svg"
+  },
+  "files": ["index.js", "client.js", "cordis.patch.yml", "locale/*.json", "icon.svg"],
+  "dsh": {
+    "bundle": { "patch": "./cordis.patch.yml" },
+    "client": {
+      "platform": "web",
+      "immediately": true,
+      "inject": ["@deepseek-ai/dsh-client-ui-conversation"]
+    }
+  }
+}
