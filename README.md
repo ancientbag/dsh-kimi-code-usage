@@ -2,9 +2,9 @@
 
 A [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) plugin that shows your **Kimi Code** subscription quota right in the Web UI:
 
-<div style="text-align: center;">
-  <img src="preview.png" alt="Скриншот">
-</div>
+<p align="center">
+  <img src="preview.png" alt="Preview">
+</p>
 
 
 - a compact badge below the message composer: `Kimi 5h 28% · 7d 12%`, color-coded (green → yellow → red as usage grows);
