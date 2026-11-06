@@ -7,7 +7,7 @@
   "keywords": ["deepseek-harness", "dsh", "cordis", "kimi", "kimi-code", "moonshot", "quota", "usage"],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CHANGE-ME/dsh-kimi-coding-usage.git"
+    "url": "git+https://github.com/ancientbag/dsh-kimi-coding-usage.git"
   },
   "exports": {
     ".": "./index.js",
