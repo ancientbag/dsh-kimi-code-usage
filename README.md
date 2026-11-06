@@ -28,6 +28,8 @@ Directly from GitHub without npm:
 Install the bundle github:ancientbag/dsh-kimi-coding-usage
 ```
 
+⚠️ If the badge with Kimi coding usage did not appear -> Try to relaunch Deepseek Harness.
+
 Then click the badge below the composer, paste your API key, and save.
 
 ## Configuration
