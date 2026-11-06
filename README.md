@@ -19,13 +19,13 @@ A [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) plugin tha
 In DeepSeek Harness: **Settings → Plugins → Install bundle**, or ask the agent:
 
 ```
-Install the bundle dsh-kimi-coding-usage
+Install the bundle dsh-kimi-code-usage
 ```
 
 Directly from GitHub without npm:
 
 ```
-Install the bundle github:ancientbag/dsh-kimi-coding-usage
+Install the bundle github:ancientbag/dsh-kimi-code-usage 
 ```
 
 ⚠️ If the badge with Kimi coding usage did not appear -> Try to relaunch Deepseek Harness.
